@@ -1,0 +1,1 @@
+C:\Users\User\OneDrive\ -\ Technische\ Hochschule\ Deggendorf\Desktop\Self\ study\r01-03-difference-of-squares-GEORGEMUTALE\target\debug\libdifference_of_squares.rlib: C:\Users\User\OneDrive\ -\ Technische\ Hochschule\ Deggendorf\Desktop\Self\ study\r01-03-difference-of-squares-GEORGEMUTALE\src\lib.rs
