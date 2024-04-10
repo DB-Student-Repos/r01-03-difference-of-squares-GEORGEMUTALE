@@ -22,5 +22,5 @@ pub fn square_of_sum(n:u32) -> u32{
     sum * sum
 }
 pub fn sum_of_squares(n: u32) -> u32 {
-    (1..=n).map(|x| x * x).sum::<u32>()
+    (1..=n).map(|x| x * x).sum()
 }
